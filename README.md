@@ -17,18 +17,18 @@
 cd Desktop
 - Write your Java program
 - For exaample 
-  Save it as Hello.java with this content:
+  Save it as Hello.java with this content:  
     public class Hello {  
        public static void main(String[] args) {  
          System.out.println("Hello, Java!");  
-    }  
+      }  
 }  
 - Compile the program
 - Run:
 javac Hello.java
 - This creates a file called Hello.class.
 - Run the program
-- Run:
+  Run:
 java Hello
 - Output will be:
 Hello, Java!
